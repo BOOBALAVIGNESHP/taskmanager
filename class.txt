@@ -1,0 +1,29 @@
+Day 16
+
+bootstrap is a front library contains some prebuilt comonents like buttons,cards,etc
+when using bootstrap the code is reduced to 50%
+its built in as no need to do separate media queries
+inbuilt responsiveness
+
+
+************************************************************
+1.copy link of css from bootstrap website
+2.grid system to form a capsule
+3.total 12 units totally,we could we can divide equally as required
+4.faa fa icon (search => font awesome cdn => get the link & paste it in head-section)
+****************assignment => flex using bootstrap
+5.div class = container to make all the elements into it itself
+6. col-sm-12 to set small display occupy 12 units
+   col-md-6 to set medium display occupy 6 of 12 units
+   col-lg-4 to set large display occupy 4 of 12 units
+
+   mt-x margin top    x= 1to5 based on display size
+   mr-x margin right
+   mb-x margin bottom
+   ml-x margin left
+
+DAy 18 DOM*******************************************
+DOM(Document Object Manupilation) to alter the html-contents without changing html code using javascript
+the dollar**$** with **{}** is used for values that are dynamic
+Document is the parent of DOM
+insertAdjacentHTML ***********>>> to the adjacent of the prefixed HTML
